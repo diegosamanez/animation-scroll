@@ -40,7 +40,7 @@ _Este proyecto fue creado por el equipo de Agregalel.com_
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (GNU-Linux) - mira el enlace [GNU General Public License](https://es.wikipedia.org/wiki/GNU_General_Public_License) para detalles
+Este proyecto está bajo la Licencia (GNU-Linux) - mira el enlace [LICENSE](https://github.com/diegosamanez/animation-scroll/blob/master/LICENSE) para detalles
 
 ## Expresiones de Gratitud 🎁
 

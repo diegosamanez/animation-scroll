@@ -1,0 +1,19 @@
+.contenedor {
+    width: 100%;
+}
+.titulo {
+    color: red;
+    text-align: center;
+    font-size: 14rem;
+}
+.parrafos {
+    font-size: 2rem;
+    text-align: left;
+    color: brown;
+}
+/** Clase agregada para el efecto AnimationScroll**/
+.letterMagic {
+    color: green;
+    font-size: 20rem;
+    transition: all .4s ease;
+}

@@ -3,6 +3,10 @@
 Crea animaciones al hacer scroll
 
 ## Comenzando 🚀
+_Agregar el script en el HTML_
+```
+<script src="http://animation-scroll-cdn.agregalel.com/animation-scroll.min.js"><script>
+```
 _Crea una nueva instancia de la clase AnimationScroll y personalizala_
 ```
 const nuevaAnimacion = new AnimationScroll({

@@ -27,6 +27,14 @@ const nuevaAnimacion = new AnimationScroll({
     transition: '.4'
 });
 ```
+_Añade la clase a CSS_
+```
+.letterMagic {
+    color: green;
+    font-size: 20rem;
+    transition: all .4s ease;
+}
+```
 
 
 ### Inicializar 
